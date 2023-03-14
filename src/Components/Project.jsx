@@ -12,10 +12,10 @@ const Project = ({ id, name, description, imageSrc, github, deployment }) => {
           <Card.Title>{name}</Card.Title>
           <Card.Text>{description}</Card.Text>
           <Card.Text>
-            Github link: <Card.Link>{github}</Card.Link>
+            Github link: <Card.Link href={github}>{github}</Card.Link>
           </Card.Text>
           <Card.Text>
-            Deployed application: <Card.Link>{deployment}</Card.Link>
+            Deployed application: {deployment ? <Card.Link href={deployment}>{deployment}</Card.Link> : "Not applicable"}
           </Card.Text>
         </Card.Body>
       </Card>

@@ -7,7 +7,7 @@ const MoreInformation = () => {
       <tbody>
         <tr>
           <td>Email</td>
-          <td>gellert.eke@outlook.com</td>
+          <td>gellerteke@outlook.com</td>
         </tr>
         <tr>
           <td>Github</td>
