@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Project-inspire",
+    "description": "Are you tired of not knowing what to do? Are you dying to learn some facts about Chuck Norris? Or are you wishing to look at an endless supply of dog images? Worry not folks, Project Inspire can do all these things.",
+    "imageSrc": "images/projectInspire.jpg",
+    "github": "https://github.com/ShootLessDie/project-inspire",
+    "deployment": "https://shootlessdie.github.io/project-inspire/"
+  },
+  {
+    "id": "2",
+    "name": "Weather forecast",
+    "description": "Knowing the weather beforehand can be vital to be able to plan things into advance. This application provides weather data for today and a forecast for 5 days for the city inputted.",
+    "imageSrc": "images/weatherDashboard.jpg",
+    "github": "https://github.com/ShootLessDie/weather-forecast",
+    "deployment": "https://shootlessdie.github.io/weather-forecast/"
+  },
+  {
+    "id": "3",
+    "name": "Work day scheduler",
+    "description": "There are many circumstances where one can lose track of time all too easily. This simply tool is designed to help. You can write in tasks you need/have to do for each hour, and with the click of the save button it saves it so you won't forget.",
+    "imageSrc": "images/workDayScheduler.jpg",
+    "github": "https://github.com/ShootLessDie/work-day-scheduler",
+    "deployment": "https://shootlessdie.github.io/work-day-scheduler/"
+  },
+  {
+    "id": "4",
+    "name": "Password generator",
+    "description": "Creating a strong password is improtant. This tool asks if the user wishes to include upper cased letters, special characters, or numbers in their password. The password length is also dependent on user input.",
+    "imageSrc": "images/passwordGenerator.jpg",
+    "github": "https://github.com/ShootLessDie/password-generator",
+    "deployment": "https://shootlessdie.github.io/password-generator/"
+  },
+  {
+    "id": "5",
+    "name": "Console finances",
+    "description": "Application to calculate various values based on dataset containing monthly profits, suchs as total sum, average monthly change, and greatest increase and decrease in monthly profits.",
+    "imageSrc": "images/consoleFinances.jpg",
+    "github": "https://github.com/ShootLessDie/console-finances",
+    "deployment": ""
+  },
+  {
+    "id": "6",
+    "name": "Bootstrap portfolio",
+    "description": "Showing one's portfolio of work can be a great way to get a possible employer's attention, and can also go a long way showing one's competence. As such the following web application was created.",
+    "imageSrc": "images/bootstrapFolio.jpg",
+    "github": "https://github.com/ShootLessDie/bootstrap-portfolio",
+    "deployment": "https://github.com/ShootLessDie/bootstrap-portfolio"
+  }
+]
