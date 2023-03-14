@@ -11,7 +11,7 @@ The deployed application can be accessed on: https://react-portfolio-gamma-snowy
 And it looks like this.
 
 <p>
-    <img alt= "Screenshot of web application." src="./Screenshot.jpg"/>
+    <img alt= "Screenshot of web application." src="./src/Screenshot.png"/>
 </p>
 
 
